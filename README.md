@@ -1,5 +1,5 @@
 # GAMES101-ComputerGraphicsBasics
-GAMES101 is a Computer Graphics Basics course
+GAMES101 is a Computer Graphics Basics course <br /> 
 This repository is for learning purpose and a recording of my ascending process
 
 # 🔴IMPORTANT❗🔴
