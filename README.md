@@ -3,4 +3,3 @@ GAMES101 is a Computer Graphics Basics course, this repository is for learning p
 
 
 ## please do not see my code if you haven't done yours yet ##
-<span style="color:blue">hey</span>.
