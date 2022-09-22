@@ -29,7 +29,7 @@ int main(){
     std::cout << "Example of scalar multiply \n";
     std::cout << v * 3.0f << std::endl;
     std::cout << 2.0f * v << std::endl;
-
+    
     // Example of matrix
     std::cout << "Example of matrix \n";
     // matrix definition
