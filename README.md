@@ -7,6 +7,9 @@ Please ***do not*** check out my code before you finished yours
 
 # BUILD N RUN
 Foreach folder **代码框架**
+
 You can 'mkdir build && cd build'
+
 Then    'cmake .. && make'
+
 run     './exe'
