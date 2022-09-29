@@ -6,6 +6,7 @@ This repository is for learning purpose and a recording of my ascending process
 Please ***do not*** check out my code before you finished yours
 
 # BUILD N RUN
-    cmake
-
-    ./exe
+Foreach folder **代码框架**
+You can 'mkdir build && cd build'
+Then    'cmake .. && make'
+run     './exe'
