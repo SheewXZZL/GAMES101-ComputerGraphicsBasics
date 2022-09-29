@@ -7,7 +7,7 @@ Please ***do not*** check out my code before you finished yours
 
 # BUILD N RUN
 Foreach folder **代码框架**<br /> 
-You can &ensp`mkdir build && cd build`<br /> 
-Then    &ensp`cmake .. && make`<br /> 
-run     &ensp`./exe`
+You can `mkdir build && cd build`<br /> 
+Then    `cmake .. && make`<br /> 
+run.    `./exe`
 
