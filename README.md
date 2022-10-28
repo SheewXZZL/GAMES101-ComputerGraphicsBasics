@@ -3,7 +3,7 @@
 This repository is for learning purpose and a record of my progress
 
 # 🔴IMPORTANT❗🔴
-Please ***do not*** check out my code before you finished yours
+I love you
 
 # BUILD N RUN
 Foreach folder **"代码框架"**  
